@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+.site_titulo {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.anime_img {
+    height: 220px;
+    width: 150px;
+}
+
+.anime_title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 2px;
+}
+
+.anime_novos {
+    font-size: 10px;
+    color: deeppink;
+    font-weight: bold;
+}
+
+.principal {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.nenhum_ep {
+    height: 220px;
+    width: 180px;
+}
+
+a {
+    color: dodgerblue;
+}
