@@ -27,3 +27,11 @@ No meu caso, criei todas em meu HD externo (E:/ no Windows)
 2.4) Esse passo é importante visualmente, pois criei a opção de poder visualizar as imagens dos animes. Você bate o olho e já o reconhece. Esse projeto tem uma pasta chamada fall-season-2017 onde coloquei todas as imagens que eu baixei da internet (todas com a mesma extensão .jpg). Você pode criar uma outra pasta (Leia 2.4.1) ou você pode colocar suas imagens nessa pasta mesmo (Leia 2.4.2).
 
 ![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-04-57.png?raw=true)
+
+![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-16-26.png?raw=true)
+
+[b]2.4.1)[/b] Crie uma pasta com o nome que desejar dentro do projeto. Depois, edite "index.php" com o Bloco de Notas e altere onde está <img src='novonomedapasta'/'...
+
+![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-19-46.png?raw=true)
+
+![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-20-44.png?raw=true)
