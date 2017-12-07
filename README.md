@@ -19,3 +19,11 @@ No meu caso, criei todas em meu HD externo (E:/ no Windows)
 2.2) Nesse passo, altere o nome exato que você renomeou as suas pastas específicas. Por exemplo, dentro da pasta "Animes" você criou "Code Geass", então coloque apenas o nome dessa pasta. Observação: no Passo 1 você colocou o URL do anime X no código 1, então coloque no código 1 o nome da pasta correspondente a esse mesmo anime!
 
 ![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-04-25.png?raw=true)
+
+2.3) Aqui você coloca o título que você quer que apareça no site. Em relação a pasta do "Code Geass", aqui você pode colocar "Code", "Code!!!" etc.
+
+![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-04-40.png?raw=true)
+
+2.4) Esse passo é importante visualmente, pois criei a opção de poder visualizar as imagens dos animes. Você bate o olho e já o reconhece. Esse projeto tem uma pasta chamada fall-season-2017 onde coloquei todas as imagens que eu baixei da internet (todas com a mesma extensão .jpg). Você pode criar uma outra pasta (Leia 2.4.1) ou você pode colocar suas imagens nessa pasta mesmo (Leia 2.4.2).
+
+![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-04-57.png?raw=true)
