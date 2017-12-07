@@ -49,3 +49,5 @@ IMPORTANTE:
 Não esqueça, se você colocou no "config.php" uns 3 animes, então altere a linha de código a seguir dentro do "index.php" de 15 para 3:
 
 ![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-34-29.png?raw=true)
+
+![alt text](https://github.com/bprojects/bg-newepisodes/blob/master/gh-img/Screenshot%20from%202017-12-06%2022-37-35.png?raw=true)
