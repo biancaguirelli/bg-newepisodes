@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>[BG] New Episodes - Fall Season 2017</title>
+        <title>[BG] New Episodes - Winter Season 2018</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
@@ -9,13 +9,13 @@
         ini_set('max_execution_time', 200);
 
         //mostra titulo do site
-        echo "<p class='site_titulo'>Anime Fall Season 2017</p>";
+        echo "<p class='site_titulo'>Anime Winter Season 2018</p>";
         echo "<table border='0' cellpadding='20'>";
 
         require_once('config.php');
 
         //percorre todos os animes
-        for($a=1;$a<=15;$a++){
+        for($a=1;$a<=9;$a++){
 
             //pega todo conteudo de cada site
             $u = file_get_contents($url[$a]);
@@ -64,7 +64,7 @@
                 echo '
                 <tr>
                     <td>
-                        <img src="fall-season-2017/'.$img[$a].'.jpg" class="anime_img">
+                        <img src="winter-season-2018/'.$img[$a].'.jpg" class="anime_img">
                     </td>
                     <td>
                         <p class="anime_novos">NOVOS EPISÓDIOS</p>
